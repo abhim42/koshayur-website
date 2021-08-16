@@ -37,7 +37,7 @@
     }
 
     .jumbotron-bg {
-      background-image: url(../images/thumbnail-bg.jpg);
+      /* background-image: url(../images/thumbnail-bg.jpg); */
       background-repeat: no-repeat;
       background-size: cover;
       background-position: center;
